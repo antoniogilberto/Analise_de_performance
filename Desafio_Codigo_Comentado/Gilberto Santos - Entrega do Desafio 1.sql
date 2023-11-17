@@ -1,12 +1,7 @@
-/*
-README: 
-Codigo Comentado 
-*/
 
-/*
-README:  1) VALOR TOTAL DAS VENDAS E DOS FRETES POR PRODUTO E ORDEM DE VENDA.
-         OBS: foi levado em consideração (total_vendas) para uma ordenação 
-*/
+-- 1) VALOR TOTAL DAS VENDAS E DOS FRETES POR PRODUTO E ORDEM DE VENDA.
+
+    -- OBS: foi levado em consideração (total_vendas) para uma ordenação 
 -- Seleciona o nome do produto e as somas do valor das vendas e valor do frete para cada produto
 SELECT
 	p.produto,
