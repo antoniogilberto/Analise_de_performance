@@ -26,7 +26,7 @@ Este projeto tem como objetivo analisar dados de vendas para obter insights sobr
 - **Oferecer uma análise aprofundada sobre métricas específicas relacionadas aos objetivos do negócio.**
 - **Capacitar os usuários a explorar os dados de forma autônoma, utilizando recursos interativos.**
 
-## Este README fornece informações essenciais sobre o projeto, incluindo detalhes sobre a estrutura do projeto, fontes de dados utilizadas, e instruções para visualizar e interagir com o relatório no Power BI. O objetivo é garantir a transparência e acessibilidade para todos os interessados neste trabalho de análise de dados.
+ Este README fornece informações essenciais sobre o projeto, incluindo detalhes sobre a estrutura do projeto, fontes de dados utilizadas, e instruções para visualizar e interagir com o relatório no Power BI. O objetivo é garantir a transparência e acessibilidade para todos os interessados neste trabalho de análise de dados.
 
 
 # Ferramentas e Desenvolvimento
@@ -41,3 +41,7 @@ A importação dos dados do SQL ocorreu através da conexão nativa do Power BI.
 Identificando os requisitos do projeto, desenvolvi medidas DAX pertinentes para criar análises impactantes. Após uma análise aprofundada, surgiu a identificação da necessidade de tabelas auxiliares em meu modelo, as quais foram concebidas com o auxílio do DAX e Power Query.
 
 O uso do Figma permitiu uma abordagem mais eficaz no desenvolvimento visual, resultando em um design final que atende tanto aos requisitos funcionais quanto estéticos do projeto.
+
+
+![Exemplo de Imagem](C:\Users\antgi\Pictures\Screenshots)
+
