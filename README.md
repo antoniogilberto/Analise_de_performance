@@ -19,7 +19,7 @@ Este projeto tem como objetivo analisar dados de vendas para obter insights sobr
 
 ## Visão Geral
 
-## Este projeto tem como objetivo criar uma análise abrangente e interativa utilizando o Power BI, proporcionando insights valiosos a partir dos dados disponíveis. Ao explorar visualmente os dados, buscamos:
+ Este projeto tem como objetivo criar uma análise abrangente e interativa utilizando o Power BI, proporcionando insights valiosos a partir dos dados disponíveis. Ao explorar visualmente os dados, buscamos:
 
 - **Identificar padrões e tendências nos dados para informar decisões estratégicas**
 - **Facilitar a compreensão e interpretação dos dados por meio de dashboards intuitivos.**
@@ -43,5 +43,6 @@ Identificando os requisitos do projeto, desenvolvi medidas DAX pertinentes para 
 O uso do Figma permitiu uma abordagem mais eficaz no desenvolvimento visual, resultando em um design final que atende tanto aos requisitos funcionais quanto estéticos do projeto.
 
 
-![Exemplo de Imagem](C:\Users\antgi\Pictures\Screenshots)
 
+
+![Descrição da Imagem](imagens_Dashboard/Captura de tela 2023-11-28 143042.png)
