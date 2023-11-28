@@ -43,6 +43,34 @@ Identificando os requisitos do projeto, desenvolvi medidas DAX pertinentes para 
 O uso do Figma permitiu uma abordagem mais eficaz no desenvolvimento visual, resultando em um design final que atende tanto aos requisitos funcionais quanto estéticos do projeto.
 
 
+# Paineis
+
+## Faturamento
+
+- **Foi possivel identificar que o dia 7 teve o melhor faturamento**
+- **Tom Lindwall e Leif Shine são funcionários que apresentam os melhores resultados**
+- **Durante todo o periódo o mês de julho de 2017 obteve maior faturamento**
+
+## Recomendado
+diante das análise podemos identifcar quais atitudes e comunicação os funcionários Tom e Leif, estão realizando para obter grande faturamento.
 
 
-![Descrição da Imagem](imagens_Dashboard/Captura de tela 2023-11-28 143042.png)
+## Vendas
+
+- **Temos o ano de 2017 como a maior quantidade de vendas e lucro**
+- **Entre as Categorias a que mais se destaca é SPORTWEAR, entre as piores CHILDREN WEAR**
+- **A europa e massivamente a regição que mais retorna lucro**
+
+## Recomendado
+Podemos observar quais aspectos foram realizados em 2017, que podemos refazer para aumentar as vendas nos próximos anos, além de intessificar a comercialização do maior produto vendido SPORTWEAR.
+
+
+- **Performance**
+
+- **Primeiro queria identificar os melhores funcionários em relação ao faturamento, e encontrei os 3 melhores Tom, Leif e Rob**
+- **Seria muito importante tambem identificarmos o nível de satisfação do cliente ao funcionário**
+
+## Recomendado
+Após identificar os melhores funcionários, podemos observar quais técnicas e metodos de abordagem estão usando que podemos compartilhar com os demais, assim aumentando ainda mais o faturamento mensal.
+
+Um ponto importante é realizarmos com maior frequência pesquisa de satisfação aos clientes, para entedermos em quais atitudes estamos pecando.
